@@ -1,0 +1,13 @@
+p, ul {
+    color: rgb(4, 5, 5)
+    font-size: 16px;
+}
+
+body {
+    font-family: 'Arvo', serif;
+}
+
+.paragrafo-1, .paragrafo-2{
+    color: rgb(4, 5, 5)
+}
+
